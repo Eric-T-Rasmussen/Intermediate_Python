@@ -1,2 +1,2 @@
 # Intermediate_Python
-I took a intermediate Python course to utilize the language for machine learning applications. Take a look at some of the stuff I worked on!
+I took an intermediate Python course to learn the language for use in machine learning applications. Take a look at some of the stuff I worked on!
